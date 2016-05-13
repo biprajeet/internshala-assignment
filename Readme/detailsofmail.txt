@@ -1,0 +1,7 @@
+Yahoo smtp options have been used.
+ 
+PhpMailer has been used.
+
+No need to make any special changes.
+
+Thank You!

@@ -1,0 +1,50 @@
+.right-padding{
+	padding-right: 1%;
+}
+.backblack{
+background-color: black;
+}
+.moveright{
+text-align: right;
+}
+a:link {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+a:visited {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+    color: lightgrey;
+}
+.mhd{
+	color: white;
+	background-color: #0C090A;
+}
+.mhb{
+	color: white;
+	background-color: #2C3539;
+}
+.bgw{
+	width: 49%;
+
+}
+.i{
+	color: white;
+	background-color: #0C090A;
+}
+.dis{
+margin :auto;
+height: 40%;
+width: 60%;
+padding: 20px 20px 20px 20px;
+}
